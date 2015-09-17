@@ -6,7 +6,7 @@
 - 부트스트랩 사용해보기
 - 템플릿 활용
 
-git clear
-git remote remove origin
-git remote add origin https://github.com/dyoni/swp1_myprofile.git
-git push -u origin master
+- git clear
+- git remote remove origin
+- git remote add origin https://github.com/dyoni/swp1_myprofile.git
+- git push -u origin master
